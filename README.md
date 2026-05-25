@@ -22,7 +22,7 @@ The example dataset has been uploaded to：[https://doi.org/10.5281/zenodo.20374
    ```
 2. Clone the repo
    ```sh
-   git clone https://
+   git clone [https://github.com/duanjinxinchina-eng/Urban-Growth-Prediction-System.git](https://github.com/duanjinxinchina-eng/Urban-Growth-Prediction-System.git)
    ```
 3. Install necessary dependencies
    ```sh
